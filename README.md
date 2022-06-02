@@ -3,14 +3,14 @@
 Labs:</br>
 
 Lab 1 - [Install and setup your personal computer with the software tools required for the course.](https://github.com/beawetton/cit281-lab1)</br>
-Lab 2 - Setting up and practicing git.</br>
-Lab 3 - Practice refactoring JavaScript code to use more modern syntax.</br>
-Lab 4 - Create initial Fastify Node.js web server.</br>
-Lab 5 - Use Postman and Post request.</br>
-Lab 6 - Practice working with Classes.</br>
-Lab 7 - Create your own GitHub organization for the CIT Minor, practice debugging code.</br>
-Lab 8 - Working with node-fetch.</br>
-Lab 9 - Create Learning Lab course/repo within your GitHub account.</br>
+Lab 2 - [Setting up and practicing git.](https://github.com/beawetton/cit281-lab2)</br>
+Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https://github.com/beawetton/cit281-lab3)</br>
+Lab 4 - [Create initial Fastify Node.js web server.](https://github.com/beawetton/cit281-lab4)</br>
+Lab 5 - [Use Postman and Post request.](https://github.com/beawetton/cit281-lab5)</br>
+Lab 6 - [Practice working with Classes.](https://github.com/beawetton/cit281-lab6)</br>
+Lab 7 - [Create your own GitHub organization for the CIT Minor, practice debugging code.](https://github.com/beawetton/cit281-lab7)</br>
+Lab 8 - [Working with node-fetch.](https://github.com/beawetton/cit281-lab8)</br>
+Lab 9 - [Create Learning Lab course/repo within your GitHub account.](https://github.com/beawetton/cit281-lab9)</br>
 </br>
 Projects:</br>
 
