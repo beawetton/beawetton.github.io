@@ -1,4 +1,4 @@
-**CIT 281**</br>
+# CIT 281</br>
 
 Labs:</br>
 
@@ -13,6 +13,7 @@ Lab 8 - Working with node-fetch.</br>
 Lab 9 - Create Learning Lab course/repo within your GitHub account.</br>
 </br>
 Projects:</br>
+
 Project 1 - Gain experience working with CLI commands.</br>
 Project 2 - Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, practice refactoring code.</br>
 Project 3 - Gain experience writing and executing web server Node.js JavaScript code using VSCode, gain experience using Fastify with the GET verb, routes, and query parameters.</br>
