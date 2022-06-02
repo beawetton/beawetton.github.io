@@ -2,7 +2,7 @@ CIT 281</br>
 
 Labs:</br>
 
-Lab 1 - Install and setup your personal computer with the software tools required for the course.</br>
+Lab 1 - [Install and setup your personal computer with the software tools required for the course.](https://github.com/beawetton/cit281-lab1)</br>
 Lab 2 - Setting up and practicing git.</br>
 Lab 3 - Practice refactoring JavaScript code to use more modern syntax.</br>
 Lab 4 - Create initial Fastify Node.js web server.</br>
