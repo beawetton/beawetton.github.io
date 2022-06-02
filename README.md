@@ -20,5 +20,5 @@ Project 5 - Gain experience working with classes, including class constructors a
 Project 6 - Gain more experience creating and working with classes.
 Project 7 - Gain experience working with GitHub Pages
 
-
+![Image description](coding.gif)
 
