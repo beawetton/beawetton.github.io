@@ -3,7 +3,7 @@
 Labs:</br>
 
 Lab 1 - [Install and setup your personal computer with the software tools required for the course.](https://github.com/beawetton/cit281-lab1)</br>
-Lab 2 - [Setting up and practicing git](https://github.com/beawetton/cit281-lab2](https://github.com/beawetton/cit-lab2)</br>
+Lab 2 - [Setting up and practicing git](https://github.com/beawetton/cit-lab2)</br>
 Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https://github.com/beawetton/cit-lab3)</br>
 Lab 4 - [Create initial Fastify Node.js web server.](https://github.com/beawetton/cit-lab4)</br>
 Lab 5 - [Use Postman and Post request.](https://github.com/beawetton/cit-lab5)</br>
