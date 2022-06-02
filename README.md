@@ -1,4 +1,5 @@
 CIT 281
+
 Labs:
 Lab 1 - Install and setup your personal computer with the software tools required for the course.
 Lab 2 - Setting up and practicing git.
