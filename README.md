@@ -5,7 +5,7 @@ Labs:
 Lab 1 - [Install and setup your personal computer with the software tools required for the course.](https://beawetton.github.io/cit-lab1/)
 
 
-Lab 2 - [Setting up and practicing git]([https://github.com/beawetton/cit-lab2](https://beawetton.github.io/cit-lab2/)
+Lab 2 - [Setting up and practicing git](https://github.com/beawetton/cit-lab2](https://beawetton.github.io/cit-lab2/)
 
 
 Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https://github.com/beawetton/cit-lab3)
