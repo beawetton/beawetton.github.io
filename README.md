@@ -32,25 +32,25 @@ Lab 9 - [Create Learning Lab course/repo within your GitHub account.](https://gi
 
 Projects:
 
-Project 1 - [Gain experience working with CLI commands.](https://beawetton.github.io/cit-p1/)
+Project 1 - [Gain experience working with CLI commands.](https://github.com/beawetton/cit-p1)
 
 
-Project 2 - [Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, practice refactoring code.](https://beawetton.github.io/cit-p2/)
+Project 2 - [Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, practice refactoring code.](https://github.com/beawetton/cit-p2)
 
 
-Project 3 - [Gain experience writing and executing web server Node.js JavaScript code using VSCode, gain experience using Fastify with the GET verb, routes, and query parameters.](https://beawetton.github.io/cit-p3/)
+Project 3 - [Gain experience writing and executing web server Node.js JavaScript code using VSCode, gain experience using Fastify with the GET verb, routes, and query parameters.](https://github.com/beawetton/cit-p3)
 
 
-Project 4 - [Gain experience using Fastify with the GET verb, routes, and route parameters.](https://beawetton.github.io/cit-p4/)
+Project 4 - [Gain experience using Fastify with the GET verb, routes, and route parameters.](https://github.com/beawetton/cit-p4)
 
 
-Project 5 - [Gain experience working with classes, including class constructors and methods.](https://beawetton.github.io/cit-p5/)
+Project 5 - [Gain experience working with classes, including class constructors and methods.](https://github.com/beawetton/cit-p5)
 
 
-Project 6 - [Gain more experience creating and working with classes.](https://beawetton.github.io/cit-p6/)
+Project 6 - [Gain more experience creating and working with classes.](https://github.com/beawetton/cit-p6)
 
 
-Project 7 - [Gain experience working with GitHub Pages](https://beawetton.github.io/cit-p7/)
+Project 7 - [Gain experience working with GitHub Pages](https://github.com/beawetton/cit-p7)
 
 
 
