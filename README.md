@@ -32,7 +32,7 @@ Lab 9 - [Create Learning Lab course/repo within your GitHub account.](https://be
 
 Projects:
 
-Project 1 - [Gain experience working with CLI commands.](https://github.com/beawetton/cit-p1)
+Project 1 - [Gain experience working with CLI commands.](https://beawetton.github.io/cit-p1/)
 
 
 Project 2 - [Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, practice refactoring code.](https://github.com/beawetton/cit-p2)
