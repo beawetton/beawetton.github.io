@@ -47,10 +47,10 @@ Project 4 - [Gain experience using Fastify with the GET verb, routes, and route 
 Project 5 - [Gain experience working with classes, including class constructors and methods.](https://beawetton.github.io/cit-p5/)
 
 
-Project 6 - [Gain more experience creating and working with classes.](https://github.com/beawetton/cit-p6)
+Project 6 - [Gain more experience creating and working with classes.](https://beawetton.github.io/cit-p6/)
 
 
-Project 7 - [Gain experience working with GitHub Pages](https://github.com/beawetton/cit-p7)
+Project 7 - [Gain experience working with GitHub Pages]([https://github.com/beawetton/cit-p7](https://beawetton.github.io/cit-p7/))
 
 
 
