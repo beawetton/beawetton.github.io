@@ -23,7 +23,7 @@ Lab 6 - [Practice working with Classes.](https://beawetton.github.io/cit-lab6/)
 Lab 7 - [Create your own GitHub organization for the CIT Minor, practice debugging code.](https://beawetton.github.io/cit-lab7/)
 
 
-Lab 8 - [Working with node-fetch.](https://github.com/beawetton/cit-lab8)
+Lab 8 - [Working with node-fetch.](https://beawetton.github.io/cit-lab8/)
 
 
 Lab 9 - [Create Learning Lab course/repo within your GitHub account.](https://github.com/beawetton/cit-lab9)
