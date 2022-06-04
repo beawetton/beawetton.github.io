@@ -8,7 +8,7 @@ Lab 1 - [Install and setup your personal computer with the software tools requir
 Lab 2 - [Setting up and practicing git](https://beawetton.github.io/cit-lab2/)
 
 
-Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https://github.com/beawetton/cit-lab3)
+Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https://beawetton.github.io/cit-lab3/)
 
 
 Lab 4 - [Create initial Fastify Node.js web server.](https://github.com/beawetton/cit-lab4)
