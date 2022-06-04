@@ -38,7 +38,7 @@ Project 1 - [Gain experience working with CLI commands.](https://beawetton.githu
 Project 2 - [Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, practice refactoring code.](https://beawetton.github.io/cit-p2/)
 
 
-Project 3 - [Gain experience writing and executing web server Node.js JavaScript code using VSCode, gain experience using Fastify with the GET verb, routes, and query parameters.](https://github.com/beawetton/cit-p3)
+Project 3 - [Gain experience writing and executing web server Node.js JavaScript code using VSCode, gain experience using Fastify with the GET verb, routes, and query parameters.](https://beawetton.github.io/cit-p3/)
 
 
 Project 4 - [Gain experience using Fastify with the GET verb, routes, and route parameters.](https://github.com/beawetton/cit-p4)
