@@ -50,7 +50,7 @@ Project 5 - [Gain experience working with classes, including class constructors 
 Project 6 - [Gain more experience creating and working with classes.](https://beawetton.github.io/cit-p6/)
 
 
-Project 7 - [Gain experience working with GitHub Pages]([https://github.com/beawetton/cit-p7](https://beawetton.github.io/cit-p7/))
+Project 7 - [Gain experience working with GitHub Pages](https://beawetton.github.io/cit-p7/)
 
 
 
