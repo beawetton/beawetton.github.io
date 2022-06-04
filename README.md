@@ -14,7 +14,7 @@ Lab 3 - [Practice refactoring JavaScript code to use more modern syntax.](https:
 Lab 4 - [Create initial Fastify Node.js web server.](https://beawetton.github.io/cit-lab4/)
 
 
-Lab 5 - [Use Postman and Post request.](https://github.com/beawetton/cit-lab5)
+Lab 5 - [Use Postman and Post request.](https://beawetton.github.io/cit-lab5/)
 
 
 Lab 6 - [Practice working with Classes.](https://github.com/beawetton/cit-lab6)
